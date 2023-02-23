@@ -122,7 +122,7 @@ super + ctrl + {Left,Down,Up,Right}
 
 # Custom move/resize
 alt + super + {Left,Down,Up,Right}
-	/home/johnny/.config/bspwm/scripts/bspwm_resize {west,south,north,east}
+	$HOME/.config/bspwm/scripts/bspwm_resize {west,south,north,east}
 
 # Open Firefox
 super + shift + f
